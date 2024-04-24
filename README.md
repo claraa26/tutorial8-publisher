@@ -9,3 +9,6 @@ Dalam satu kali run `main` maka akan memanggil 5 kali `publish_event`. Maka akan
 b. The url of: “amqp://guest:guest@localhost:5672” is the same as in the subscriber
 program, what does it mean? </br> 
 Jika url subscriber dan publisher sama artinya keduanya terhubung pada message broker AMPQ yang berjalan di machine yang sama. Keduanya berinteraksi pada broker instance yang sama sehingga memungkinkan publisher mengirimkan pesan dan subcriber menerima pesan tersebut. 
+
+## RabbitMQ
+![](https://imgur.com/a/3zEu2jr.png)
