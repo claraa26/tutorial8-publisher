@@ -11,4 +11,9 @@ program, what does it mean? </br>
 Jika url subscriber dan publisher sama artinya keduanya terhubung pada message broker AMPQ yang berjalan di machine yang sama. Keduanya berinteraksi pada broker instance yang sama sehingga memungkinkan publisher mengirimkan pesan dan subcriber menerima pesan tersebut. 
 
 ## RabbitMQ
-![](https://imgur.com/a/3zEu2jr.png)
+![](https://imgur.com/a/3zEu2jr)
+
+## After `cargo run`
+Setelah dijalankan cargo eun sistem mengirimkan 5 data ke message broker 
+![](https://imgur.com/4RuDlgH)
+![](https://imgur.com/TK4fCqx)
