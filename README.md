@@ -17,3 +17,6 @@ Jika url subscriber dan publisher sama artinya keduanya terhubung pada message b
 Setelah dijalankan cargo eun sistem mengirimkan 5 data ke message broker 
 ![](https://imgur.com/4RuDlgH)
 ![](https://imgur.com/TK4fCqx)
+
+Pada grafik dibawah terlihat terdapat kenaikan dari grafik hal tersebut terkait message yang di publish oleh publisher. Setiap publisher mengirimkan pesan maka akan divisualisasikan melalui grafik.
+![](https://imgur.com/6KPh3BA)
